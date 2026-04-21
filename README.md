@@ -16,4 +16,4 @@ Tools & Technologies Used:
 Power BI: Data visualization, DAX calculations, and interactive report design
 Excel: Data cleaning, transformation, and preparation
 
-This project demonstrates my ability to work with complex datasets, implement data models, and build interactive dashboards that enhance business decision-making and operational efficiency.
+This project demonstrates my ability to handle complex datasets, design robust data models, and develop interactive dashboards that improve business decision‑making and operational efficiency.
